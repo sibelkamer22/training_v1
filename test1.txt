@@ -1,1 +1,3 @@
-test file 1commit from local to remote
+test file 1
+commit from local to remote
+ssh connection test
